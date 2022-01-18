@@ -11,7 +11,7 @@ Network,Privacy
 Office
 Office,Viewer
 Password
-Player,Infotainment
+Player,Music
 Privacy
 System
 User

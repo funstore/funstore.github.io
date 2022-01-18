@@ -1,8 +1,7 @@
 {
   "/etc/issue.net": "Debian GNU/Linux 11",
   "commandLine": [
-    "/media/redback/android/fdroid/fdroidserver/fdroid update",
-    "-c"
+    "/media/redback/android/fdroid/fdroidserver/fdroid update"
   ],
   "fdroidserver": {
     "commitId": "0452d6591dae473d725a8505f71fbaeb91d714d8",
@@ -10,6 +9,6 @@
     "modifiedFiles": [],
     "untrackedFiles": []
   },
-  "startTimestamp": 1642500665000,
+  "startTimestamp": 1642516207000,
   "subcommand": "update"
 }

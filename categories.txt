@@ -6,6 +6,7 @@ Infotainment
 Infotainment,Player
 Messenger
 Navigation
+Network
 Network,Privacy
 Office
 Office,Viewer
@@ -13,6 +14,5 @@ Password
 Player,Infotainment
 Privacy
 System
-UI
 User
 user
